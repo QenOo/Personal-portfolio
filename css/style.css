@@ -46,9 +46,6 @@ body{
 .navbar ul li a:hover::before{
     left: 0;
 }
-
-
-
 .navbar button{
     background-color: #c5009a;
     color: #fff;
